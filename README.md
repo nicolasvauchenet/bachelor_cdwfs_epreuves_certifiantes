@@ -2,7 +2,7 @@
 
 **Bachelor Développeur Web Full Stack**
 
-## 🎯 Thématique Générale – Projet Fil Rouge
+## Thématique Générale – Projet Fil Rouge
 
 **Nom du projet : SkillHub**
 
@@ -23,7 +23,7 @@ professionnel du parcours.
 
 ---
 
-## 🟨 Bloc 1 – Front-End : Interfaces Adaptatives et Interactives
+## Bloc 1 – Front-End : Interfaces Adaptatives et Interactives
 
 ### **EC1 – Conception d'interfaces sans Framework**
 
@@ -55,7 +55,7 @@ Réalisation d’un tableau de bord utilisateur (apprenant ou formateur) permett
 
 ---
 
-## 🟩 Bloc 2 – Back-End : Développement d’Applications et d’API
+## Bloc 2 – Back-End : Développement d’Applications et d’API
 
 ### **EC3 – Développement back-end avec BDD**
 
@@ -87,7 +87,7 @@ Développement de l’API publique de la plateforme :
 
 ---
 
-## 🟦 Bloc 3 – Cloud, DevOps et Architecture
+## Bloc 3 – Cloud, DevOps et Architecture
 
 ### **EC5 – Rapport d’audit Cloud et architecture**
 
@@ -118,7 +118,7 @@ Mise en place d’un processus d’intégration et de déploiement continu :
 
 ---
 
-## 🟪 Bloc 4 – Gestion de Projet, Qualité et Veille
+## Bloc 4 – Gestion de Projet, Qualité et Veille
 
 ### **EC7 – Étude d’avant-projet**
 
@@ -177,7 +177,7 @@ Rédaction d’un rapport de veille technologique en lien avec une problématiqu
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 Ce fil rouge permet :
 
