@@ -1,4 +1,4 @@
-# Propositions de Thématiques Fil Rouge
+# Proposition V2 – Thématiques Fil Rouge
 
 ## Bachelor Développeur Web Full Stack
 
@@ -6,7 +6,7 @@
 
 ## Objectif des Épreuves Certifiantes (EC)
 
-Dans le cadre du Bachelor Développeur Web Full Stack, les Épreuves Certifiantes (EC) ont pour but d’évaluer les
+Dans le cadre du Bachelor Développeur Web Full Stack, les Épreuves Certifiantes (EC) ont pour objectif d’évaluer les
 compétences professionnelles des apprenants à travers des mises en situation concrètes, en lien avec les 4 blocs du
 référentiel RNCP.
 
@@ -21,14 +21,15 @@ Chaque projet fil rouge proposé ci-dessous permet :
 
 ## Blocs de compétences évalués
 
-| Bloc   | Domaine                     | Compétences évaluées                             |
-|--------|-----------------------------|--------------------------------------------------|
-| Bloc 1 | Front-End                   | HTML, CSS, JS, Accessibilité, RWD, Frameworks JS |
-| Bloc 2 | Back-End & API              | POO, BDD SQL/NoSQL, API sécurisée, tests         |
-| Bloc 3 | Cloud & DevOps              | CI/CD, Docker, architecture, hébergement         |
-| Bloc 4 | Gestion de Projet & Qualité | Analyse, documentation, bonnes pratiques, veille |
+| Bloc   | Domaine                     | Compétences évaluées                                                 |
+|--------|-----------------------------|----------------------------------------------------------------------|
+| Bloc 1 | Front-End                   | HTML, CSS, JS, Accessibilité, Responsive Design, Frameworks JS       |
+| Bloc 2 | Back-End & API              | POO, BDD SQL *et* NoSQL, API sécurisée, tests                        |
+| Bloc 3 | Cloud & DevOps              | CI/CD, Docker, architecture, hébergement cloud                       |
+| Bloc 4 | Gestion de Projet & Qualité | Analyse, cahier des charges, documentation, bonnes pratiques, veille |
 
-Chaque fil rouge permet de construire l’ensemble des EC en lien direct avec ces blocs.
+Chaque fil rouge permet de construire l’ensemble des EC en lien direct avec ces blocs de compétences, en garantissant la
+rejouabilité et une évaluation individuelle à format équivalent, y compris en cas de rattrapage.
 
 ---
 
@@ -40,70 +41,78 @@ Chaque fil rouge permet de construire l’ensemble des EC en lien direct avec ce
 
 **Pitch :**  
 Création d’une plateforme mettant en relation des formateurs indépendants et des apprenants en reconversion.
-Fonctionnalités : publication d’ateliers, inscription, messagerie, progression, espace membre, API sécurisée.
+Fonctionnalités : publication d’ateliers, inscription, messagerie, suivi de progression, espace membre, API sécurisée.
 
 **Enjeux pédagogiques :**
 
-- Interfaces complexes avec filtres et tableaux de bord
-- Authentification, rôles, CRUD avancé
-- Documentation technique et automatisation CI/CD
+- Interfaces dynamiques avec filtres, tableaux de bord et notifications
+- Authentification, rôles, gestion fine des autorisations
+- Documentation technique, automatisation CI/CD, tests
 
 **Compétences clés mobilisées :**  
-Front-end moderne, back-end MVC, API REST sécurisée, gestion de projet Agile, documentation, tests
+Front-end moderne (React/Vue), architecture back-end MVC, API REST sécurisée, gestion de projet Agile, documentation,
+tests
 
 ---
 
 ### 2. **FoodSafe – Application d’aide aux allergies alimentaires**
 
 **Pitch :**  
-Plateforme pour identifier les aliments compatibles avec les intolérances de l’utilisateur. Les utilisateurs
-enregistrent leurs restrictions (gluten, lactose, etc.) et interrogent une base de produits.
+Plateforme permettant à des utilisateurs de renseigner leurs allergies ou intolérances alimentaires, et d’interroger une
+base de produits pour vérifier leur compatibilité.
 
 **Enjeux pédagogiques :**
 
-- Manipulation de données santé (RGPD, sécurité)
-- API publique avec moteur de recherche
-- Documentation claire et tests unitaires poussés
+- Manipulation de données sensibles et respect du RGPD
+- Moteur de recherche sur base relationnelle et NoSQL
+- Documentation claire, sécurité, et tests unitaires poussés
 
 **Compétences clés mobilisées :**  
-Modélisation back-end, API sécurisée, UX spécifique à la santé, documentation OpenAPI, tests rigoureux
+Modélisation back-end multi-BDD, API sécurisée, UX centrée utilisateur santé, documentation OpenAPI, tests rigoureux
 
 ---
 
 ### 3. **RebootCamp – Application de défis écologiques gamifiés**
 
 **Pitch :**  
-Application de défis quotidiens d’écologie : les utilisateurs accomplissent des gestes simples (trier, éteindre la
-lumière, éviter la voiture…), gagnent des points et suivent leur impact.
+Application ludique de suivi d’écogestes quotidiens. Les utilisateurs accomplissent des défis (trier, économiser
+l’énergie, etc.), gagnent des points, débloquent des badges, et peuvent comparer leur impact écologique.
 
 **Enjeux pédagogiques :**
 
-- Gamification, badges, classements
-- Visualisation d’impact environnemental
-- Éco-conception et hébergement responsable
+- Gamification avancée (badges, classements, scoring)
+- Visualisation de données d’impact environnemental
+- Éco-conception, sobriété numérique, hébergement responsable
 
 **Compétences clés mobilisées :**  
-Front dynamique, back statistique, API ouverte, hébergement green IT, outils de suivi (EcoIndex, Lighthouse)
+Composants front interactifs, back analytique, API ouverte, hébergement green IT, outils de mesure (EcoIndex,
+Lighthouse)
 
 ---
 
 ## Format des livrables
 
-Pour chacun des projets, un document complet est fourni :
+Pour chaque projet, un livrable complet est disponible, incluant :
 
-- Présentation du thème
-- Syllabus détaillé pour les 10 EC
-- Durées, types d’épreuves, modalités
-- Contexte réaliste, ancrage professionnel
+- Une présentation détaillée de la thématique
+- Le syllabus des **10 EC**, avec :
+    - Durées, types d’épreuves (écrites, orales, informatisées)
+    - Objectifs pédagogiques précis
+    - Mise en situation réaliste et professionnalisante
+- L’intégration :
+    - De **BDD relationnelles et NoSQL** pour les EC de back-end
+    - D’**évolutions en V2** pour l’EC d’avant-projet
+    - D’**ingrédients imprévisibles** pour éviter la fraude
+    - D’une **rejouabilité à format équivalent** pour les rattrapages
 
-Chaque projet peut être sélectionné comme **fil rouge principal**, ou adapté à un semestre/thématique donnée.
+Chaque projet peut être sélectionné comme **fil rouge principal**, ou adapté à un semestre / une thématique donnée.
 
 ---
 
 ## Prochaines étapes
 
-- Sélection du ou des projets retenus
-- Intégration dans la maquette du Bachelor
-- Rédaction finale des fiches d’évaluation si nécessaire
+- Choix du ou des projets retenus comme support des EC
+- Intégration à la maquette pédagogique finale du Bachelor
+- Finalisation des grilles d’évaluation et des scénarios d’épreuve si besoin
 
 ---
