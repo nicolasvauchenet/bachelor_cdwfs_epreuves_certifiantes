@@ -18,14 +18,16 @@ produits qu’elles consomment. Le projet comprend :
 - Une infrastructure cloud avec déploiement automatisé
 - Des livrables qualité, de la veille techno et une gestion projet collaborative
 
-Chaque Épreuve Certifiante (EC) est ancrée dans cette trame, garantissant la cohérence pédagogique et l’ancrage
-professionnel du parcours.
+Chaque Épreuve Certifiante (EC) est ancrée dans cette trame, garantissant la cohérence pédagogique, la réutilisabilité
+technique et l’ancrage professionnel du parcours. Chaque EC reste néanmoins **indépendante et rejouable** à format
+équivalent. Des **éléments non triviaux, révélés au dernier moment**, seront introduits pour limiter la fraude et
+garantir l’authenticité des productions.
 
 ---
 
 ## Bloc 1 – Front-End : Interfaces Adaptatives et Interactives
 
-### **EC1 – Conception d'interfaces sans Framework**
+### EC1 – Conception d'interfaces sans Framework
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
@@ -40,7 +42,7 @@ allergènes courants, et invite les utilisateurs à créer un compte.
 
 ---
 
-### **EC2 – Conception d'interfaces avec Framework**
+### EC2 – Conception d'interfaces avec Framework
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
@@ -57,22 +59,24 @@ Création du tableau de bord utilisateur avec les fonctionnalités suivantes :
 
 ## Bloc 2 – Back-End : Développement d’Applications et d’API
 
-### **EC3 – Développement back-end avec BDD**
+### EC3 – Développement back-end avec BDD (relationnelle + NoSQL)
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
 **Syllabus :**  
-Implémentation du back-end de gestion des utilisateurs et des profils d’intolérances :
+Implémentation du back-end de gestion des utilisateurs et des profils d’intolérances, en mettant obligatoirement en
+œuvre **une base de données relationnelle ET une base NoSQL** (CR10, CR11, CR12).
 
 - Architecture MVC avec POO
-- Base de données relationnelle (PostgreSQL) ou NoSQL (MongoDB) selon profil
 - Authentification, rôles (admin, utilisateur)
-- Stockage et gestion des profils allergènes (gluten, lactose, etc.)
-- Validation des données et sécurisation des entrées
+- PostgreSQL : comptes, rôles, préférences utilisateurs
+- MongoDB : fiches produit, tags, historiques de recherches
+- Validation et sécurisation des données
+- Une codebase partielle pourra être fournie : environnement Docker, auth de base, jeux de données partiels
 
 ---
 
-### **EC4 – API sécurisée et documentée**
+### EC4 – API sécurisée et documentée
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
@@ -82,14 +86,14 @@ Réalisation d’une API publique pour interroger les produits compatibles avec 
 - Endpoints REST (ou GraphQL) : recherche, ajout aux favoris, suppression, etc.
 - Authentification via JWT
 - Documentation Swagger/OpenAPI
-- Tests unitaires sur les routes critiques (produits, allergènes)
+- Tests unitaires sur les routes critiques
 - Appel AJAX/Fetch pour vérification sans rechargement de page
 
 ---
 
 ## Bloc 3 – Cloud, DevOps et Architecture
 
-### **EC5 – Rapport d’audit Cloud et architecture**
+### EC5 – Rapport d’audit Cloud et architecture
 
 **Type :** Mise en situation reconstituée écrite – *Épreuve individuelle – 4h00*
 
@@ -103,7 +107,7 @@ Audit technique pour le déploiement de *FoodSafe* :
 
 ---
 
-### **EC6 – CI/CD et versionning**
+### EC6 – CI/CD et versionning
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
@@ -120,21 +124,25 @@ Mise en place d’un processus DevOps :
 
 ## Bloc 4 – Gestion de Projet, Qualité et Veille
 
-### **EC7 – Étude d’avant-projet**
+### EC7 – Étude d’avant-projet (portant sur une évolution du projet)
 
 **Type :** Mise en situation reconstituée écrite – *Épreuve individuelle – 4h00*
 
 **Syllabus :**  
-Étude initiale du projet *FoodSafe* :
+Cette épreuve porte sur **l’évolution ou la refonte de la V1 du projet FoodSafe**, déjà partiellement développé au cours
+des EC précédentes. Elle simule une situation réaliste dans laquelle un développeur est amené à reprendre un projet
+existant pour l’adapter à de nouveaux besoins, à partir de retours utilisateurs, de contraintes techniques ou de choix
+stratégiques.
 
-- Identification des utilisateurs cibles (adultes/allergiques, parents, pros de santé…)
-- Définition des besoins fonctionnels et techniques
-- Faisabilité technique, contraintes réglementaires (RGPD)
-- Cahier des charges fonctionnel structuré
+- Analyse critique de la version actuelle (V1)
+- Identification des nouveaux besoins fonctionnels
+- Définition d’objectifs pour une version V2 du projet
+- Élaboration d’un cahier des charges fonctionnel pour l’évolution
+- Prise en compte des contraintes de continuité de service, compatibilité, refonte partielle ou migration
 
 ---
 
-### **EC8 – Compte rendu d’activité (Projet fil rouge) + Soutenance**
+### EC8 – Compte rendu d’activité (Projet fil rouge) + Soutenance
 
 **Type :** Mise en situation professionnelle reconstituée – *Collectif (1 à 3 jours)*  
 **Oral individuel :** 20 minutes
@@ -149,7 +157,7 @@ Développement du MVP de *FoodSafe* :
 
 ---
 
-### **EC9 – Guide de bonnes pratiques**
+### EC9 – Guide de bonnes pratiques
 
 **Type :** Mise en situation reconstituée écrite – *Épreuve individuelle – 4h00*
 
@@ -163,17 +171,17 @@ Rédaction d’un guide qualité pour maintenir le code et la documentation du p
 
 ---
 
-### **EC10 – Rapport de veille technologique multilingue**
+### EC10 – Rapport de veille technologique multilingue
 
 **Type :** Épreuve écrite et orale en anglais – *Épreuve individuelle – 2h00 + 20 minutes*
 
 **Syllabus :**  
 Rapport de veille autour de thématiques liées à *FoodSafe* :
 
-- Frameworks front/back les plus adaptés à une app santé
-- Tendances sur la sécurité des APIs manipulant des données médicales
-- Accessibilité numérique pour les applications de santé publique
-- Présentation orale en anglais avec synthèse claire des résultats
+- Frameworks front/back pour apps santé
+- Sécurité des APIs manipulant des données sensibles
+- Accessibilité numérique pour les apps médicales
+- Présentation orale en anglais avec synthèse claire
 
 ---
 
@@ -181,10 +189,10 @@ Rapport de veille autour de thématiques liées à *FoodSafe* :
 
 Ce fil rouge permet :
 
-- Une montée en compétence cohérente, avec un fort ancrage métier (santé, RGPD, accessibilité)
+- Une montée en compétence cohérente et progressive
 - Une immersion dans un projet numérique d’utilité publique
-- Une transversalité technique entre front, back, API, cloud, sécurité et gestion documentaire
-- Un développement complet dans un cadre professionnalisant, réaliste et valorisant pour les apprenants
+- Une transversalité entre techniques back, front, DevOps et gestion projet
+- Une évaluation fidèle aux attendus du RNCP et à la réalité du terrain
 
-Chaque EC évalue des compétences directement mobilisables dans le monde professionnel et ancrées dans des enjeux
-sociétaux actuels.
+Chaque épreuve reste autonome, contextualisée, et rejouable. Des contraintes spécifiques, révélées en dernière minute,
+permettent d’assurer l’authenticité des productions.

@@ -62,13 +62,16 @@ Réalisation d’un tableau de bord utilisateur (apprenant ou formateur) permett
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
 **Syllabus :**  
-Développement du back-end du module de gestion des utilisateurs de *SkillHub* :
+Développement du back-end du module de gestion des utilisateurs de *SkillHub*, avec **intégration obligatoire d'une base
+relationnelle ET d'une base NoSQL**, afin d’évaluer les critères CR10, CR11 et CR12.  
+Pour rendre l'épreuve faisable dans le temps imparti, une **codebase partielle sera fournie** :
 
-- Configuration de l’environnement de développement (IDE, terminal, packages)
-- Architecture MVC, POO
-- Gestion des rôles, sessions, et comptes
-- Base de données relationnelle (PostgreSQL) ou NoSQL (MongoDB)
-- Conformité aux principes de sécurité et de performance
+- Authentification déjà en place
+- Environnement de développement configuré (Docker, docker-compose)
+- Modèles, jeux de données initiaux (PostgreSQL et MongoDB)
+- Documentation fonctionnelle ou diagramme de contexte
+
+Les apprenants devront mettre en œuvre des opérations ciblées sur les deux bases et justifier leurs choix techniques.
 
 ---
 
@@ -125,12 +128,14 @@ Mise en place d’un processus d’intégration et de déploiement continu :
 **Type :** Mise en situation reconstituée écrite – *Épreuve individuelle – 4h00*
 
 **Syllabus :**  
-Rédaction de l’étude préalable de *SkillHub* :
+Plutôt que de rédiger une étude initiale fictive en fin de parcours, cette EC portera sur l’**évolution stratégique du
+projet** *SkillHub* :
 
-- Analyse des besoins utilisateurs (persona, user stories)
-- Définition des fonctionnalités attendues (MoSCoW)
-- Analyse de faisabilité (technique, humaine, budgétaire)
-- Élaboration d’un cahier des charges fonctionnel
+- Transition vers une V2 (changement de public, refonte UX, ajout de contraintes réglementaires, etc.)
+- Analyse des retours utilisateurs et des limites de la version initiale
+- Repositionnement fonctionnel (objectifs, périmètre, priorisation MoSCoW)
+- Élaboration d’un cahier des charges complémentaire
+- Proposition de solutions techniques ou organisationnelles
 
 ---
 
@@ -177,6 +182,16 @@ Rédaction d’un rapport de veille technologique en lien avec une problématiqu
 
 ---
 
+## Spécificités supplémentaires intégrées
+
+- **Rattrapage** : chaque EC est indépendante et rejouable à format équivalent
+- **Fraude / Prévisibilité** : chaque épreuve comportera un ou plusieurs éléments révélés uniquement le jour J pour
+  éviter la triche (ex. : contraintes techniques, données spécifiques, scénario évolutif)
+- **Ordre des EC** : respect de l’ordre imposé par le calendrier, avec ajustements pédagogiques (EC07 repositionnée
+  comme extension stratégique)
+
+---
+
 ## Conclusion
 
 Ce fil rouge permet :
@@ -185,6 +200,7 @@ Ce fil rouge permet :
 - Une forte cohérence pédagogique entre les EC
 - Une immersion dans un projet réaliste, complet et professionnalisant
 - Une évaluation précise des compétences techniques et transversales
+- Une adaptabilité aux contraintes organisationnelles et aux réalités professionnelles
 
-Chaque épreuve est conçue pour refléter les situations de travail réelles d’un développeur web full stack, en phase avec
-les attendus du référentiel RNCP.
+Chaque épreuve reflète une situation métier authentique, en lien direct avec les blocs de compétences du référentiel
+RNCP.

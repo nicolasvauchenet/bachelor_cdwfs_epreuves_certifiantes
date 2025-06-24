@@ -26,7 +26,7 @@ professionnel du parcours.
 
 ## Bloc 1 – Front-End : Interfaces Adaptatives et Interactives
 
-### **EC1 – Conception d'interfaces sans Framework**
+### EC1 – Conception d'interfaces sans Framework
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
@@ -40,7 +40,7 @@ Création de la page d’accueil de *RebootCamp* :
 
 ---
 
-### **EC2 – Conception d'interfaces avec Framework**
+### EC2 – Conception d'interfaces avec Framework
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
@@ -56,7 +56,7 @@ Développement du tableau de bord utilisateur :
 
 ## Bloc 2 – Back-End : Développement d’Applications et d’API
 
-### **EC3 – Développement back-end avec BDD**
+### EC3 – Développement back-end avec BDD
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
@@ -65,13 +65,15 @@ Développement du back-end pour la gestion des comptes utilisateurs et des défi
 
 - Architecture MVC avec POO
 - Stockage des profils utilisateurs, des défis, des scores et badges
-- Base PostgreSQL ou MongoDB selon les besoins
+- Base de données relationnelle **et** NoSQL obligatoires (ex : PostgreSQL + MongoDB)
 - Gestion des rôles : utilisateur, modérateur, animateur
 - Sécurité, validation des données et anonymisation possible
+- Une codebase partielle (authentification de base, structure MVC, environnement Docker) peut être fournie pour
+  permettre la concentration sur la logique métier
 
 ---
 
-### **EC4 – API sécurisée et documentée**
+### EC4 – API sécurisée et documentée
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
@@ -88,7 +90,7 @@ Conception de l’API publique *RebootCamp* :
 
 ## Bloc 3 – Cloud, DevOps et Architecture
 
-### **EC5 – Rapport d’audit Cloud et architecture**
+### EC5 – Rapport d’audit Cloud et architecture
 
 **Type :** Mise en situation reconstituée écrite – *Épreuve individuelle – 4h00*
 
@@ -96,13 +98,13 @@ Conception de l’API publique *RebootCamp* :
 Audit pour déployer *RebootCamp* dans une démarche d’éco-conception :
 
 - Analyse des besoins de disponibilité, performance et sobriété énergétique
-- Comparaison entre cloud public, privé, et hébergement green IT (Ex : Infomaniak Green Hosting)
-- Proposition d’une architecture adaptée (mono, microservices…)
+- Comparaison entre cloud public, privé, et hébergement green IT (ex : Infomaniak Green Hosting)
+- Proposition d’une architecture adaptée (monolithique, microservices…)
 - Justification budgétaire, sécuritaire et éthique
 
 ---
 
-### **EC6 – CI/CD et versionning**
+### EC6 – CI/CD et versionning
 
 **Type :** Mise en situation reconstituée sur ordinateur – *Épreuve individuelle – 4h00*
 
@@ -119,21 +121,22 @@ Mise en place de la chaîne DevOps du projet :
 
 ## Bloc 4 – Gestion de Projet, Qualité et Veille
 
-### **EC7 – Étude d’avant-projet**
+### EC7 – Étude d’avant-projet (portant sur une évolution du projet)
 
 **Type :** Mise en situation reconstituée écrite – *Épreuve individuelle – 4h00*
 
 **Syllabus :**  
-Étude initiale du projet *RebootCamp* :
+L’étude porte sur **une évolution ou refonte de la V1 du projet RebootCamp**, à partir d’un retour d’expérience
+utilisateur, d’un besoin d’extension à de nouveaux publics (collèges, entreprises), ou d’un pivot stratégique.
 
-- Définition des cibles : citoyens engagés, collectivités, jeunes publics
-- Identification des fonctionnalités essentielles (gamification, défis, progression)
-- Cahier des charges fonctionnel clair, inspiré de projets réels (Ma Petite Planète, Wecf…)
-- Analyse des contraintes éthiques, techniques et réglementaires
+- Analyse critique de la V1
+- Définition des nouveaux objectifs fonctionnels
+- Élaboration d’un cahier des charges fonctionnel pour la version V2
+- Contraintes de compatibilité, refonte partielle, intégration continue
 
 ---
 
-### **EC8 – Compte rendu d’activité (Projet fil rouge) + Soutenance**
+### EC8 – Compte rendu d’activité (Projet fil rouge) + Soutenance
 
 **Type :** Mise en situation professionnelle reconstituée – *Collectif (1 à 3 jours)*  
 **Oral individuel :** 20 minutes
@@ -148,7 +151,7 @@ MVP de *RebootCamp* développé par une équipe projet :
 
 ---
 
-### **EC9 – Guide de bonnes pratiques**
+### EC9 – Guide de bonnes pratiques
 
 **Type :** Mise en situation reconstituée écrite – *Épreuve individuelle – 4h00*
 
@@ -162,7 +165,7 @@ Rédaction du guide qualité de *RebootCamp* :
 
 ---
 
-### **EC10 – Rapport de veille technologique multilingue**
+### EC10 – Rapport de veille technologique multilingue
 
 **Type :** Épreuve écrite et orale en anglais – *Épreuve individuelle – 2h00 + 20 minutes*
 
@@ -185,5 +188,5 @@ Le projet *RebootCamp* offre :
 - Une cohérence forte entre technique, gestion projet et démarche éthique
 - Une ouverture sur les enjeux sociétaux et les pratiques numériques durables
 
-Chaque EC permet aux apprenants de démontrer leur capacité à concevoir, développer, documenter et déployer une
-application web complète, utile et responsable.
+Chaque EC est indépendante, rejouable au même format, et contient des éléments non triviaux révélés au dernier moment
+pour garantir l’authenticité de la production.
