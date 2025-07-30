@@ -1,4 +1,4 @@
-# Proposition de Thématique Fil Rouge pour les Épreuves Certifiantes
+# Thématique Fil Rouge pour les Épreuves Certifiantes
 
 **Bachelor Développeur Web Full Stack**
 
