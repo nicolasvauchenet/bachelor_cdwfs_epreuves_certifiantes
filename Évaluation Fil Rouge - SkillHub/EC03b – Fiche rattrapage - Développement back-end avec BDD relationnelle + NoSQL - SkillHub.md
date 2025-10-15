@@ -2,8 +2,8 @@
 
 ## Contexte général
 
-Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à développer une partie du back-end dédiée à la *
-*gestion des ateliers**.
+Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à développer une partie du back-end dédiée à la
+**gestion des ateliers**.
 
 L’objectif est de manipuler à la fois une base **relationnelle** et une base **NoSQL**, afin de stocker et traiter des
 informations différentes :

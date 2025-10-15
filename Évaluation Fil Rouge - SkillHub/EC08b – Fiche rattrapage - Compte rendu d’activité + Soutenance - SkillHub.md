@@ -2,9 +2,9 @@
 
 ## Contexte général
 
-Dans le cadre du projet fil rouge **SkillHub**, l’épreuve de rattrapage consiste à réaliser une **production collective
-** centrée sur un **module spécifique** de la plateforme (ex. : tableau de bord, API d’inscriptions, ou messagerie
-interne), suivie d’une **soutenance individuelle**.
+Dans le cadre du projet fil rouge **SkillHub**, l’épreuve de rattrapage consiste à réaliser une
+**production collective** centrée sur un **module spécifique** de la plateforme (ex. : tableau de bord, API
+d’inscriptions, ou messagerie interne), suivie d’une **soutenance individuelle**.
 
 Chaque groupe doit développer et livrer une version partielle de ce module, avec un code fonctionnel, une organisation
 de travail claire, et une documentation adaptée.  

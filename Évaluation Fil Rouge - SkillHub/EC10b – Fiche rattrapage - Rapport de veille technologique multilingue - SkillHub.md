@@ -2,9 +2,9 @@
 
 ## Contexte général
 
-Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à produire un **rapport de veille technologique
-multilingue** centré sur une problématique spécifique : la **sécurité et la protection des données** dans les
-plateformes collaboratives.
+Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à produire un
+**rapport de veille technologique multilingue** centré sur une problématique spécifique : la
+**sécurité et la protection des données** dans les plateformes collaboratives.
 
 Le rapport doit mobiliser des sources **en français et en anglais**, proposer une **analyse comparative** des solutions
 existantes (protocoles, bonnes pratiques, outils), et formuler une **synthèse critique** adaptée à SkillHub.

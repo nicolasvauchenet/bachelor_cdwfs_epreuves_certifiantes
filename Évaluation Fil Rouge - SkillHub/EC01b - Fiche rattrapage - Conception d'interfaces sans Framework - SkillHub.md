@@ -2,8 +2,8 @@
 
 ## Contexte général
 
-Dans le cadre du projet fil rouge **SkillHub**, l’épreuve de rattrapage consiste à concevoir une **page publique de
-présentation d’un atelier** (ex. : *“Découverte de JavaScript”*).
+Dans le cadre du projet fil rouge **SkillHub**, l’épreuve de rattrapage consiste à concevoir une
+**page publique de présentation d’un atelier** (ex. : *“Découverte de JavaScript”*).
 
 Cette page doit permettre de :
 

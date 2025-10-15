@@ -2,8 +2,8 @@
 
 ## Contexte général
 
-Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à rédiger un **guide interne de qualité
-logicielle** centré sur deux axes prioritaires :
+Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à rédiger un
+**guide interne de qualité logicielle** centré sur deux axes prioritaires :
 
 1. Les **revues de code** (checklists, critères, organisation des revues)
 2. La **documentation technique minimale** à fournir dans le projet (README, schémas, commentaires, API docs)

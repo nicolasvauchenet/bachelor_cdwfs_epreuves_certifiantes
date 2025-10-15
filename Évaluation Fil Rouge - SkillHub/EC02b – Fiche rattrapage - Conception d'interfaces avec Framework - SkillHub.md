@@ -2,8 +2,8 @@
 
 ## Contexte général
 
-Dans la continuité du projet **SkillHub**, l’épreuve de rattrapage consiste à développer une **interface utilisateur de
-messagerie interne** (ex. : échanges entre formateur et apprenant au sujet d’un atelier).
+Dans la continuité du projet **SkillHub**, l’épreuve de rattrapage consiste à développer une
+**interface utilisateur de messagerie interne** (ex. : échanges entre formateur et apprenant au sujet d’un atelier).
 
 Ce module doit permettre de :
 
@@ -12,8 +12,8 @@ Ce module doit permettre de :
 - Envoyer un nouveau message
 - Naviguer entre différentes vues (conversations, message détaillé, nouvel envoi)
 
-L’épreuve met l’accent sur la réutilisabilité des composants, l’accessibilité, et l’organisation du code avec un *
-*framework moderne** (React, Vue ou Angular).
+L’épreuve met l’accent sur la réutilisabilité des composants, l’accessibilité, et l’organisation du code avec un
+**framework moderne** (React, Vue ou Angular).
 
 ## Livrables attendus
 

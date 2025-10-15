@@ -2,8 +2,8 @@
 
 ## Contexte général
 
-Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à mettre en œuvre une **chaîne d’intégration et
-de déploiement continu** spécifiquement dédiée au **module API** (back-end).
+Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à mettre en œuvre une
+**chaîne d’intégration et de déploiement continu** spécifiquement dédiée au **module API** (back-end).
 
 L’objectif est de garantir la qualité, la traçabilité et la reproductibilité des livrables grâce à un pipeline CI/CD
 bien structuré.  

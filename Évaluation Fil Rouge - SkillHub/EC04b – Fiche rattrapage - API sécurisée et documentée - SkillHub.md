@@ -2,8 +2,8 @@
 
 ## Contexte général
 
-Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à développer une **API sécurisée** dédiée à la *
-*gestion des inscriptions aux ateliers**.
+Dans le cadre du projet **SkillHub**, l’épreuve de rattrapage consiste à développer une **API sécurisée** dédiée à la
+**gestion des inscriptions aux ateliers**.
 
 Cette API doit permettre :
 
@@ -11,8 +11,8 @@ Cette API doit permettre :
 - De lister les inscriptions d’un utilisateur connecté
 - De gérer l’annulation d’une inscription
 
-L’API doit respecter les standards actuels de conception, de sécurité et de documentation, et être fournie avec des *
-*tests unitaires automatisés**.
+L’API doit respecter les standards actuels de conception, de sécurité et de documentation, et être fournie avec des
+**tests unitaires automatisés**.
 
 L’architecture (REST ou GraphQL) est laissée au choix de l’apprenant, à condition d’être clairement justifiée.
 

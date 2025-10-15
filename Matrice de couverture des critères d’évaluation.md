@@ -1,4 +1,4 @@
-# Matrice complète de couverture des critères – EC01 à EC10 (V3)
+# Matrice complète de couverture des critères – EC01 à EC10
 
 **Bachelor Développeur Web Full Stack**
 

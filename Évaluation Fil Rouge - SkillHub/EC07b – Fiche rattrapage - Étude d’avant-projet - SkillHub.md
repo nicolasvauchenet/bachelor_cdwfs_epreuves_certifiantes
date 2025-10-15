@@ -2,8 +2,8 @@
 
 ## Contexte général
 
-Dans le cadre de l’évolution stratégique du projet **SkillHub**, l’épreuve de rattrapage consiste à réaliser une **étude
-d’avant-projet ciblée sur un nouveau module** : un **système de certification des compétences** permettant aux
+Dans le cadre de l’évolution stratégique du projet **SkillHub**, l’épreuve de rattrapage consiste à réaliser une
+**étude d’avant-projet ciblée sur un nouveau module** : un **système de certification des compétences** permettant aux
 apprenants d’obtenir des badges ou attestations numériques après validation d’ateliers.
 
 L’objectif est de produire un diagnostic et un cadrage réaliste pour l’intégration de ce module en V2, en tenant
