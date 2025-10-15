@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Ce dossier contient la version V3 des **fiches Épreuves Certifiantes (EC)** du Bachelor Développeur Web Full Stack.
+Ce dossier contient la version finale des **fiches Épreuves Certifiantes (EC)** du Bachelor Développeur Web Full Stack.
 
 Chaque fiche correspond à une épreuve individuelle ou collective, positionnée dans l’un des 4 blocs de compétences du
 référentiel RNCP. Ces EC s’appuient toutes sur un **projet fil rouge structurant** (ex. SkillHub), garantissant :
@@ -79,4 +79,4 @@ projet.
 
 Pour toute modification, mise à jour ou adaptation, contacter l’équipe référente pédagogique.
 
-> Version révisée le : **30 juillet 2025**
+> Version révisée le : **15 Octobre 2025**
