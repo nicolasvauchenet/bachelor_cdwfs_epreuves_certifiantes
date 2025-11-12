@@ -1,4 +1,4 @@
-# Épreuves Certifiantes par projet fil rouge
+# Épreuves Certifiantes du Bachelor « Concepteur Développeur Full Stack »
 
 ## Contexte
 
