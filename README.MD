@@ -80,3 +80,4 @@ projet.
 Pour toute modification, mise à jour ou adaptation, contacter l’équipe référente pédagogique.
 
 > Version révisée le : **15 Octobre 2025**
+> Responsable : **Nicolas Vauché** – Formateur en architecture et développement logiciel
