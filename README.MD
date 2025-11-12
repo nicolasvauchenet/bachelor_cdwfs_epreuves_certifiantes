@@ -1,4 +1,4 @@
-# README – Épreuves Certifiantes par projet fil rouge
+# Épreuves Certifiantes par projet fil rouge
 
 ## Contexte
 
